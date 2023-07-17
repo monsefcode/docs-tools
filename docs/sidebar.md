@@ -1,0 +1,5 @@
+- [Home](/)
+- [About](/section-2.md)
+- [Contact](/contact.md)
+- [Blog](/blog.md)
+- [Projects](/projects.md)
